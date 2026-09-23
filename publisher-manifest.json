@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "058c8e3c2f2d6135cca9537f",
+  "owner": "nvqwmqs",
+  "repo": "page-b8d0589c485e2297da39edab",
+  "title": "R2VPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b8d0589c485e2297da39edab",
+      "a": "R2VPN",
+      "b": "机场官网线路发布页",
+      "entity": "R2VPN",
+      "brand": "R2VPN",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d89c93453d91f825f3df36693a58988458262132c59531f1cc5a6a42aa36ea9",
+      "content": {
+        "primary_entity": "R2VPN",
+        "keyword1": "R2VPN",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端：Windows 可用 Clash Verge，macOS 可用 ClashX Pro，iOS 可用 Shadowrocket，Android 可用 Clash Meta for Android，路由器可刷 OpenWrt 插件。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐后，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用 R2VPN",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，月付价格从 ¥15 到 ¥85，年付可节省两个月费用。流量从每月 100GB 到 1000GB，在线设备数从 3 台到 20 台，覆盖个人轻量使用到团队多设备场景。旗舰版包含 IPLC 专线节点和流媒体解锁，适合对速度和稳定性要求较高的用户。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，旗舰版每月 300GB，团队版每月 1000GB。流量按月重置，超出后可以升级套餐或等待下月恢复。日常浏览和视频选择 100GB 到 300GB 档即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。可以在手机、电脑和平板之间灵活切换，同时在线的设备数不超过套餐上限即可。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于节省两个月费用。如果确定长期使用，年付是更经济的选择。",
+          "AI_FAQ_ANSWER_4": "在订阅页面复制订阅链接，打开对应客户端选择从剪贴板导入或手动添加订阅地址，更新节点后选择延迟较低的节点连接即可。不同客户端的操作略有差异，可参考对应文档。",
+          "AI_FAQ_ANSWER_5": "基础版满足日常浏览和普通视频需求；旗舰版增加 IPLC 专线，适合游戏加速和高码率流媒体；团队版提供高带宽节点和定制路由，适合多设备团队协作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "R2VPN 各套餐流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_5": "应该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从设备数量、月流量和订阅周期三个角度对比套餐，选择贴合自己使用习惯的配置。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量选择。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 适合轻度浏览，300GB 适合流媒体，1000GB 适合多设备团队。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付节省两个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按照三个步骤完成订阅配置，即可在常用设备上使用 R2VPN。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_HERO_INTRO": "R2VPN 提供基础版、旗舰版和团队版三档套餐，满足个人轻度浏览、流媒体与游戏加速、团队多设备等不同需求。月付低至 ¥15，年付更划算。",
+          "AI_HERO_SUBTITLE": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更划算",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别 ¥150、¥350、¥850。按设备数和流量需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和月流量需求，从基础版、旗舰版或团队版中选择合适的套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统对应的客户端，并查看套餐支持的在线设备数量是否满足需要。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，更新节点后选择延迟较低的节点连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "R2VPN 套餐灵活选"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tduh7c.cn",
+    "host": "tduh7c.cn"
+  },
+  "file_hashes": {
+    "index.html": "fcc4582854205f778bcb31a66fed017d04a23e7ecd777b21f51b7a1381163fad",
+    "sitemap.xml": "406b03c7bd91050a80af597d3492154d76530991afbfbc7a2433c6204aea764b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "501681dc816ace01fdbb5f753a2bdef1f591177d367959f92f57736290c688de",
+    "robots.txt": "32388932cea72d7d6e00e40cc0a4aecce0d5a2eef28e832876fa1bc0538b338d",
+    "964d0153e8b5d5618c1284bf3a173d9e.txt": "8f533ff84c94781a674237e93a9e0741e78997442587b5ca5f8440eff678072a"
+  },
+  "revision": "b37d23aa3abf51a95986caab5aad5c6e6e2d1cd635e59cbc67bf13da8a99efe9"
+}
